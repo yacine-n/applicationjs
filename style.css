@@ -1,0 +1,62 @@
+body{
+  background-color: lightsalmon;
+}
+.true{
+  border: 0.5px solid black;
+  background-color: moccasin;
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.reponse{
+  height: 50px;
+  font-size: 40px;
+   margin-left: 20%;
+  margin-right: 20%;
+  border: 0.5px solid black;
+  background-color: moccasin;
+}
+.true h2{
+  text-shadow: 3px 3px 3px lightsalmon;
+  font-size: 40px;
+}
+
+label{
+  font-size: 40px;
+  font-style: italic;
+  width: 300px;
+  display: inline-block;
+  margin-right: 0;
+}
+textarea{
+  height: 150px;
+}
+input,textarea{
+  border: 1px thin black;
+  width: 300px;
+ height: 40px;
+  font-size: 40px;
+}
+textarea{
+  height: 150px;
+}
+input:hover, .reponse:hover, textarea:hover{
+  font-weight: bold;
+  background-color: #EDF;
+  cursor: pointer;
+  color: green;  
+}
+table{
+  /*border: 1px solid;*/
+  width: 100%;
+  margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
